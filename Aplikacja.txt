@@ -3,7 +3,11 @@
         System.out.println("Podaj poprawne hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
-
+   public void logowaniegoogle() {
+        System.out.println("Podaj nazwę użytkownika");
+        System.out.println("Podaj poprawne hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
+    }
 
 
 Nowe zmiany które wprowadzam
